@@ -1,19 +1,18 @@
-# AI Chatbot
+# 🤖 AI Chatbot
 
-Simple AI chatbot built using Python and Streamlit.
+A simple AI chatbot built using Python and Streamlit.
 
 ## Features
-- User input handling
-- Interactive chatbot UI
-- Beginner-friendly project
+- Chat interface
+- Memory support
+- Smart responses
+- Modern UI
 
 ## Technologies Used
 - Python
 - Streamlit
 
-## Run Project
+## Installation
 
-streamlit run app.py
-
-## Author
-Ankit Jatav
+```bash
+pip install streamlit
